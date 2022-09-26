@@ -4,6 +4,12 @@
 .logocodo {
     width: 120px;
 }
+i {
+    font-size: 30px;
+}
+li,a {
+    font-weight: 500;
+}
 .imagenba {
     object-fit: cover;
     width: 100%;
@@ -15,15 +21,15 @@
     position: absolute;
     font-size: 0.9rem;
     color: whitesmoke;
-    top: 78%;
+    top: 65%;
     text-align: right;
     font-weight: 500;
     right: 8%;
 }
 .button1 {
     position: absolute;
-    right: 34%;
-    top: 105%;
+    right: 26%;
+    margin-bottom: auto;
     color: lightgrey;
     font-size: medium;
     font-weight: 500;
@@ -32,8 +38,8 @@
 }
 .button2 {
     position: absolute;
-    right: 7%;
-    top: 105%;
+    right: 3%;
+    margin-bottom: auto;
 }
 .titulo {
     text-align: center;
